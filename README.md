@@ -1,4 +1,4 @@
-# REDDIT - Data Visualization Team Work
+# REDDIT - DVIZ Team Work
 ## Purpose
 A network consists in multiple entities that communicate with one another. Our task consisted in choosing one from several network datasets mainly provided by the Stanford Network Analysis Project, visualizing it, analyzing it, and finding a story to tell and valuable insights. We choose the Reddit dataset, consisting in a list of posts on Reddit belonging to a source subreddit and pointing to a target subreddit. A subreddit is a subcommunity characterized by the same topic.
 
